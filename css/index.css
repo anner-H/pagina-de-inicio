@@ -1,0 +1,85 @@
+.banner_index{
+    width: 100%;
+    height: 550px;
+    padding-top: 200px;
+    color: aliceblue;
+    font-family: sans-serif;
+    
+    background-image: url("https://i.pinimg.com/originals/2a/31/a9/2a31a9ab2433741c350a964628f1861e.gif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Cuento{
+    text-align: center;
+    font-size: 50px;
+}
+.btn_banner{
+    display: block;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    margin-top: 15px;
+    
+    background-color: #800001;
+    background-image: linear-gradient(0deg, #800001 0%, #e33700 100%);
+    
+    transition: 0.3s;
+}
+
+.btn_banner:hover{
+    width: 150px;
+    background-image: linear-gradient(180deg, #ffc0a9 0, #ffb5a6 16.67%, #ffa9a2 33.33%, #f29d9d 50%, #de9297 66.67%, #cc8891 83.33%, #bb7f8b 100%);
+    transition: 0.3s;
+    
+}
+
+.btn_inicio{
+    display: block;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    margin-top: 15px;
+    
+    background-color: #800001;
+    background-image: linear-gradient(0deg, #800001 0%, #e33700 100%);
+    
+    transition: 0.3s
+}
+
+.btn_inicio:hover{
+    width: 150px;
+    background-image: linear-gradient(180deg, #ffc0a9 0, #ffb5a6 16.67%, #ffa9a2 33.33%, #f29d9d 50%, #de9297 66.67%, #cc8891 83.33%, #bb7f8b 100%);
+    transition: 0.3s;
+}
+
+.btn_Glosario{
+    display: block;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    margin-top: 15px;
+    
+    background-color: #800001;
+    background-image: linear-gradient(0deg, #800001 0%, #e33700 100%);
+    
+    transition: 0.3s
+}
+
+.btn_Glosario:hover{
+    width: 150px;
+    background-image: linear-gradient(180deg, #ffc0a9 0, #ffb5a6 16.67%, #ffa9a2 33.33%, #f29d9d 50%, #de9297 66.67%, #cc8891 83.33%, #bb7f8b 100%);
+    transition: 0.3s;
+}
